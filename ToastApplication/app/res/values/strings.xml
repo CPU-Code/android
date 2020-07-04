@@ -1,0 +1,19 @@
+<!--
+ * @Author: cpu_code
+ * @Date: 2020-07-04 14:14:42
+ * @LastEditTime: 2020-07-04 14:32:25
+ * @FilePath: \android\ToastApplication\app\res\values\strings.xml
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+-->
+
+<resources>
+    <!--字符串资源-->
+    <string name="app_name">My dog</string>
+    <string name="question_text">You are SB</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <!--toast的消息显示-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
