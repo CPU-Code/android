@@ -1,3 +1,12 @@
+<!--
+ * @Author: cpu_code
+ * @Date: 2020-07-04 19:12:49
+ * @LastEditTime: 2020-07-04 19:18:59
+ * @FilePath: \android\MvcApplication\app\res\values\strings.xml
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+-->
+
 <resources>
     <!--字符串资源-->
     <string name="app_name">You SB </string>
