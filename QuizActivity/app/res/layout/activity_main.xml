@@ -1,0 +1,46 @@
+<!--
+ * @Author: cpu_code
+ * @Date: 2020-07-03 22:07:09
+ * @LastEditTime: 2020-07-04 14:29:21
+ * @FilePath: \android\QuizActivity\app\res\layout\activity_main.xml
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+-->
+
+<!--垂直LinearLayout组件-->
+<!--继承自ViewGroup组件-->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <!--根LinearLayout子组件： TextView-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="24dp"
+        android:text="@string/question_text"
+
+        />
+    <!--水平LinearLayout组件-->
+    <!--根LinearLayout子组件：LinearLayout-->
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/true_button" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/false_button" />
+
+    </LinearLayout>
+</LinearLayout>
