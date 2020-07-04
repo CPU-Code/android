@@ -1,0 +1,20 @@
+<resources>
+    <!--字符串资源-->
+    <string name="app_name">You SB </string>
+
+    <string name="question_australia">Hi, SB</string>
+    <string name="question_oceans">Hi, 2B</string>
+    <string name="question_mideast">How are you</string>
+    <string name="question_africa">I am 2B, I\'m fine</string>
+    <string name="question_americas">How are you</string>
+    <string name="question_asia">I am SB, I\'m fine</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="next_button">NEXT</string>
+    <string name="prev_button"> PREV</string>
+    <!--toast的消息显示-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
