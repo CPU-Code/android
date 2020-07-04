@@ -1,3 +1,11 @@
+/*
+ * @Author: cpu_code
+ * @Date: 2020-07-04 21:19:07
+ * @LastEditTime: 2020-07-04 21:24:06
+ * @FilePath: \android\IamgeApplication\app\java\com\example\myapplication\Question.java
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+ */ 
 package com.example.myapplication;
 
 public class Question

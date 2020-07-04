@@ -1,3 +1,11 @@
+<!--
+ * @Author: cpu_code
+ * @Date: 2020-07-04 21:19:07
+ * @LastEditTime: 2020-07-04 21:24:12
+ * @FilePath: \android\IamgeApplication\app\res\layout\activity_main.xml
+ * @Gitee: https://gitee.com/cpu_code
+ * @CSDN: https://blog.csdn.net/qq_44226094
+-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
